@@ -1,0 +1,1 @@
+This repository contains the code along and assignments I completed for Section 3 of the Udemy course, [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/), which covers the basics for NodejS. 
